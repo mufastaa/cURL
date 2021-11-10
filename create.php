@@ -10,4 +10,4 @@ curl_close($ch);
 
 print_r($result);
 
-?>
+
